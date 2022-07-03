@@ -1,4 +1,4 @@
-# TextLog
+#Policy
 
 > Textlog is a minimalist, lefty-style Jekyll theme designed for documentation based blog.
 
